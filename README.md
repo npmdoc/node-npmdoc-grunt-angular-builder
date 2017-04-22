@@ -1,4 +1,7 @@
-# api documentation for  [grunt-angular-builder (v0.5.2)](https://github.com/claudio-silva/grunt-angular-builder)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-angular-builder.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-angular-builder) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-angular-builder.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-angular-builder)
+# npmdoc-grunt-angular-builder
+
+#### api documentation for  [grunt-angular-builder (v0.5.2)](https://github.com/claudio-silva/grunt-angular-builder)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-angular-builder.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-angular-builder) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-angular-builder.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-angular-builder)
+
 #### A project builder for AngularJS applications.
 
 [![NPM](https://nodei.co/npm/grunt-angular-builder.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-angular-builder)
@@ -72,7 +75,8 @@
         "type": "git",
         "url": "git+https://github.com/claudio-silva/grunt-angular-builder.git"
     },
-    "version": "0.5.2"
+    "version": "0.5.2",
+    "bin": {}
 }
 ```
 
